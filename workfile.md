@@ -1,4 +1,3 @@
-"""
 Message to Micron (as a whole)
 
 
@@ -52,4 +51,3 @@ A Concerned Citizen
 
 
 "I didn't come here to tell you how this is going to end. I came here to tell you how it's going to begin." - Neo
-"""
